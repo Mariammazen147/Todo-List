@@ -1,0 +1,21 @@
+.input:focus {
+    border-color: #a49aff;
+}
+
+.input {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    transition: border-color 0.3s; 
+    margin: 5px;
+  }
+
+.button {
+    background-color: #a49aff;
+    color: white;
+    padding: 10px 24px;
+    margin: 5px;
+    border-radius: 4px;
+    border-color: white;
+}
